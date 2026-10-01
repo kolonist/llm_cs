@@ -10,4 +10,8 @@
 
 ## Полные листинги примеров
 
-- 
+- [sample_1](sample_1/sample_1.cs)
+- [sample_2](sample_2/sample_2.cs)
+- [sample_3](sample_3/sample_3.cs)
+- [sample_4](sample_4/sample_4.cs)
+- [sample_5](sample_5/sample_5.cs)
